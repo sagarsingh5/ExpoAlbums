@@ -6,7 +6,7 @@ import { Provider } from "react-redux";
 import { PersistGate } from "redux-persist/integration/react";
 import { navigationRef } from "./assets/src/navigation/RootNavigation";
 import AppStackNavigation from "./assets/src/navigation/TabNavigation";
-
+import "react-native-gesture-handler";
 export default function App() {
   LogBox.ignoreAllLogs();
   return (

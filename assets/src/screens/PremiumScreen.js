@@ -1,9 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import PlayBox from "../components/PlayBox";
 import Screen from "../components/Screen";
-import SliderComponent from "../components/SliderComponent";
-
 export default function PremiumScreen() {
   return (
     <Screen style={styles.container}>

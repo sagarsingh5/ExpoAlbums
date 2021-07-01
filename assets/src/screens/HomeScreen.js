@@ -7,9 +7,7 @@ import {
   View,
   FlatList,
 } from "react-native";
-import Icon from "../components/Icon";
 import Screen from "../components/Screen";
-import BoxCard from "../components/BoxCard";
 import CardsContainer from "../components/CardsContainer";
 
 // import  from 'expo';
