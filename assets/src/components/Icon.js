@@ -8,7 +8,7 @@ export default function Icon({
   icon,
   size = height - 25,
   color = "#fff",
-  backgroundColor = "transparent",
+  backgroundColor = "transparent", 
   borderRadius,
   onPress,
   image,
